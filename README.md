@@ -61,7 +61,7 @@ This project helped me strengthen my Power BI skills in data modeling, DAX calcu
 ---
 
 ##Dashboard Preview
-- Blinkit_Dashboard.png
+- ![Blinkit Dashboard Screenshot](Blinkit_Dashboard.png)
 
 ---
 
@@ -89,4 +89,5 @@ This project helped me strengthen my Power BI skills in data modeling, DAX calcu
 
 ##Tags
 `#PowerBI` `#DataAnalytics` `#Blinkit` `#Dashboard` `#DataVisualization` `#GroceryData`
+
 
